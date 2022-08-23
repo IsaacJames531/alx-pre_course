@@ -1,1 +1,1 @@
-this is my second repository
+readme refused to be updated
